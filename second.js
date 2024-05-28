@@ -1,6 +1,6 @@
 views ={
     name:"prajin",
-    favnum : 7,
+    email : "prajinkhatiwada@gmail.com",
     developer:true
 }
 console.log(exports,require,module,__filename,__dirname)

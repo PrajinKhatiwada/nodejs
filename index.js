@@ -1,3 +1,3 @@
-const pk = require("./second.js");
+const data = require("./second.js");
 
-console.log("hello world",pk)
+console.log("hey ! It's me ...",data)
