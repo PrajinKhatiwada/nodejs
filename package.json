@@ -1,0 +1,18 @@
+{
+  "name": "prajin",
+  "version": "1.0.0",
+  "description": "its amazing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prajin",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^18.0.1",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.1"
+  }
+}
