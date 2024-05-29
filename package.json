@@ -9,7 +9,6 @@
   "author": "prajin",
   "license": "ISC",
   "dependencies": {
-    "@angular/cli": "^18.0.1",
     "express": "^4.19.2"
   },
   "devDependencies": {
